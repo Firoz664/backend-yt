@@ -2,7 +2,7 @@
     "envName": "Development",
     "port": 8000,
     "db_connectionString": {
-        "db": "mongodb://localhost:27017/YoutubeClone"
+      "db": "mongodb+srv://virality-media:virality1234@cluster0.grsxemc.mongodb.net/youtube-clone?retryWrites=true&w=majority"
     },
     "JWT_SECRET":"MdShamsFiroz",
 
