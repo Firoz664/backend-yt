@@ -1,0 +1,22 @@
+{
+    "envName": "Development",
+    "port": 8000,
+    "db_connectionString": {
+        "db": "mongodb://localhost:27017/YoutubeClone"
+    },
+    "JWT_SECRET":"MdShamsFiroz",
+
+    "AWS_S3_ACCESS_KEY_ID": "AKIATDAY5FYKW6SWM5TD",
+    "AWS_S3_SECRET_ACCESS_KEY": "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",
+    "AWS_S3_BUCKET_NAME": "bucket-src-1",
+    "AWS_S3_REGION": "ap-south-1",
+   
+  
+
+  "clientID": "86vzktruiujomt",
+  "clientSecret": "0AFahqMw70BAbn6V",
+  "callbackURL": "http://localhost:3000/auth/linkedin/callback"
+
+
+
+}
